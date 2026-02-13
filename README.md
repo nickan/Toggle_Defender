@@ -51,7 +51,7 @@
 ### Способ 2 — Клонировать репозиторий
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Toggle_Defender.git
+git clone https://github.com/nickan/Toggle_Defender.git
 cd Toggle_Defender
 ```
 
