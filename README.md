@@ -122,6 +122,17 @@ flowchart TD
 
 ---
 
+## 🔍 Ключевые слова
+
+`windows defender` `toggle defender` `disable windows defender` `enable windows defender`
+`отключить защитник windows` `включить защитник windows` `переключатель защитника`
+`windows defender batch` `defender on off` `disable realtime protection`
+`отключить антивирус windows` `bat файл защитник` `windows security toggle`
+`Set-MpPreference` `DisableRealtimeMonitoring` `windows 10` `windows 11`
+`batch script` `powershell defender` `defender toggle script`
+
+---
+
 <p align="center">
   Сделано с ❤️ для удобного управления Windows Defender
 </p>
